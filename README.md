@@ -1,1 +1,1 @@
-# Laboratorio-1-Arturo_Jazmin
+# Laboratorio1-Trading
